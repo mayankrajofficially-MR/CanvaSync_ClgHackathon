@@ -1,0 +1,6 @@
+{
+  "name": "CanvasSync",
+  "description": "A high-performance real-time collaborative whiteboard with live presence, cursor tracking, shapes, text, sticky notes, lasers, and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
